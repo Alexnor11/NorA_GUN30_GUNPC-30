@@ -1,0 +1,14 @@
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\bin\Debug\net8.0\01logicalOoperations.exe
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\bin\Debug\net8.0\01logicalOoperations.deps.json
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\bin\Debug\net8.0\01logicalOoperations.runtimeconfig.json
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\bin\Debug\net8.0\01logicalOoperations.dll
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\bin\Debug\net8.0\01logicalOoperations.pdb
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\01logicalOoperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\01logicalOoperations.AssemblyInfoInputs.cache
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\01logicalOoperations.AssemblyInfo.cs
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\01logicalOoperations.csproj.CoreCompileInputs.cache
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\01logicalOoperations.dll
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\refint\01logicalOoperations.dll
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\01logicalOoperations.pdb
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\01logicalOoperations.genruntimeconfig.cache
+F:\GameDevelop\Netology\C#\Homework\01logicalOoperations\01logicalOoperations\obj\Debug\net8.0\ref\01logicalOoperations.dll
